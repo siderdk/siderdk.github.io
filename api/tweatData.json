@@ -1,0 +1,151 @@
+[
+    {
+      "id": "glogg00001",
+      "title": "Gløgg",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
+      "type": "Dinner",
+      "pitch": "easy sweet and spicy mulled wine",
+      "ingredients": [
+        { "name": "Orange zest", "amount": "0.5", "unit": "count" },
+        { "name": "Water", "amount": "200", "unit": "ml" },
+        { "name": "Sugar", "amount": "275", "unit": "grams" },
+        { "name": "Whole cloves", "amount": "5", "unit": "count" },
+        { "name": "Cinnamon sticks", "amount": "2", "unit": "count" },
+        { "name": "Spice", "amount": "0", "unit": "" },
+        { "name": "Red wine", "amount": "1", "unit": "bottle" },
+        { "name": "Raisins", "amount": "100", "unit": "grams" },
+        { "name": "Slipped Almonds", "amount": "50", "unit": "grams" }
+      ],
+      "description": "Mix everything, heat it, and you are good to go!"
+    },
+    {
+      "id": "bnizen00002",
+      "title": "Bniwen",
+      "pictureLink": "https://lifestyleofafoodie.com/wp-content/uploads/2020/05/Almond-no-bake-energy-balls-with-chocolate-crunch-13-of-18.jpg",
+      "type": "Dessert",
+      "pitch": "delightful and easy, guaranteed happiness with each bite",
+      "ingredients": [
+        { "name": "crackers", "amount": "1", "unit": "cup" },
+        { "name": "butter", "amount": "0.75", "unit": "cup" },
+        { "name": "Vanilla sugar", "amount": "3", "unit": "tbsp" },
+        { "name": "Turkish halva", "amount": "0.75", "unit": "cup" },
+        { "name": "Almond flour", "amount": "0.5", "unit": "cup" },
+        { "name": "Nut mix", "amount": "0.5", "unit": "cup" },
+        { "name": "Licorice pulver", "amount": "1", "unit": "tbsp" },
+        { "name": "Cocoa pulver", "amount": "3", "unit": "tbsp" },
+        { "name": "Dark chocolate", "amount": "120", "unit": "grams" }
+      ],
+      "description": "Process the nuts. Mix everything, cover in melted chocolate, and you are good to go!"
+    },
+    {
+      "id": "lasgn00003",
+      "title": "Classic Lasagna",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lasagna_%28cropped%29.jpg",
+      "type": "Dinner",
+      "pitch": "Rich and cheesy layers of goodness",
+      "ingredients": [
+        { "name": "Lasagna noodles", "amount": "12", "unit": "count" },
+        { "name": "Ground beef", "amount": "500", "unit": "grams" },
+        { "name": "Tomato sauce", "amount": "2", "unit": "cups" },
+        { "name": "Ricotta cheese", "amount": "1", "unit": "cup" },
+        { "name": "Mozzarella cheese", "amount": "2", "unit": "cups" },
+        { "name": "Parmesan cheese", "amount": "0.5", "unit": "cup" },
+        { "name": "Onion", "amount": "1", "unit": "" },
+        { "name": "Garlic", "amount": "2", "unit": "cloves" },
+        { "name": "Olive oil", "amount": "2", "unit": "tbsp" }
+      ],
+      "description": "Layer noodles, meat sauce, and cheeses. Bake until bubbly and golden."
+    },
+    {
+      "id": "ratat00004",
+      "title": "Ratatouille",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ratatouille.jpg",
+      "type": "Lunch",
+      "pitch": "A healthy French veggie medley",
+      "ingredients": [
+        { "name": "Eggplant", "amount": "1", "unit": "" },
+        { "name": "Zucchini", "amount": "1", "unit": "" },
+        { "name": "Bell peppers", "amount": "2", "unit": "" },
+        { "name": "Tomatoes", "amount": "3", "unit": "" },
+        { "name": "Garlic", "amount": "2", "unit": "cloves" },
+        { "name": "Olive oil", "amount": "3", "unit": "tbsp" },
+        { "name": "Thyme", "amount": "1", "unit": "tbsp" },
+        { "name": "Salt", "amount": "0", "unit": "" },
+        { "name": "Pepper", "amount": "0", "unit": "" }
+      ],
+      "description": "Sauté vegetables, layer them in a dish, and bake until tender."
+    },
+    {
+      "id": "pesto00005",
+      "title": "Pesto Pasta",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pesto_pasta.jpg",
+      "type": "Lunch",
+      "pitch": "Simple and refreshing Italian flavors",
+      "ingredients": [
+        { "name": "Pasta", "amount": "250", "unit": "grams" },
+        { "name": "Basil leaves", "amount": "2", "unit": "cups" },
+        { "name": "Pine nuts", "amount": "2", "unit": "tbsp" },
+        { "name": "Garlic", "amount": "1", "unit": "clove" },
+        { "name": "Parmesan cheese", "amount": "0.5", "unit": "cup" },
+        { "name": "Olive oil", "amount": "0.25", "unit": "cup" },
+        { "name": "Salt", "amount": "0", "unit": "" },
+        { "name": "Pepper", "amount": "0", "unit": "" }
+      ],
+      "description": "Blend pesto ingredients, mix with cooked pasta, and serve."
+    },
+    {
+      "id": "tirsm00006",
+      "title": "Tiramisu",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tiramisu_with_spoon.jpg",
+      "type": "Dessert",
+      "pitch": "The classic creamy Italian delight",
+      "ingredients": [
+        { "name": "Ladyfingers", "amount": "300", "unit": "grams" },
+        { "name": "Mascarpone cheese", "amount": "500", "unit": "grams" },
+        { "name": "Espresso", "amount": "2", "unit": "cups" },
+        { "name": "Cocoa powder", "amount": "2", "unit": "tbsp" },
+        { "name": "Egg yolks", "amount": "4", "unit": "" },
+        { "name": "Sugar", "amount": "0.5", "unit": "cup" },
+        { "name": "Whipping cream", "amount": "1", "unit": "cup" }
+      ],
+      "description": "Layer mascarpone cream and coffee-dipped ladyfingers. Chill and dust with cocoa."
+    },
+    {
+      "id": "shak00007",
+      "title": "Shakshuka",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shakshouka.jpg",
+      "type": "Breakfast",
+      "pitch": "A hearty and flavorful breakfast dish",
+      "ingredients": [
+        { "name": "Eggs", "amount": "4", "unit": "" },
+        { "name": "Tomatoes", "amount": "4", "unit": "" },
+        { "name": "Bell pepper", "amount": "1", "unit": "" },
+        { "name": "Onion", "amount": "1", "unit": "" },
+        { "name": "Garlic", "amount": "2", "unit": "cloves" },
+        { "name": "Olive oil", "amount": "2", "unit": "tbsp" },
+        { "name": "Cumin", "amount": "1", "unit": "tbsp" },
+        { "name": "Paprika", "amount": "1", "unit": "tbsp" },
+        { "name": "Cilantro", "amount": "0", "unit": "" }
+      ],
+      "description": "Cook vegetables in a skillet, add eggs, and let them cook to desired doneness."
+    },
+    {
+      "id": "cckch00008",
+      "title": "Chocolate Chip Cookies",
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Chip_Cookies_-_kimberlykv.jpg",
+      "type": "Dessert",
+      "pitch": "Soft and chewy, a timeless classic",
+      "ingredients": [
+        { "name": "Butter", "amount": "1", "unit": "cup" },
+        { "name": "Sugar", "amount": "1", "unit": "cup" },
+        { "name": "Brown sugar", "amount": "1", "unit": "cup" },
+        { "name": "Eggs", "amount": "2", "unit": "" },
+        { "name": "Vanilla extract", "amount": "2", "unit": "tsp" },
+        { "name": "Flour", "amount": "3", "unit": "cups" },
+        { "name": "Baking soda", "amount": "1", "unit": "tsp" },
+        { "name": "Salt", "amount": "1", "unit": "tsp" },
+        { "name": "Chocolate chips", "amount": "2", "unit": "cups" }
+      ],
+      "description": "Mix ingredients, bake at 350°F (175°C) for 10–12 minutes."
+    }
+  ]
