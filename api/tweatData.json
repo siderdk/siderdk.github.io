@@ -4,7 +4,7 @@
       "title": "Gløgg",
       "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
       "type": "Dinner",
-      "pitch": "easy sweet and spicy mulled wine",
+      "pitch": "Easy sweet and spicy mulled wine",
       "ingredients": [
         { "name": "Orange zest", "amount": "0.5", "unit": "count" },
         { "name": "Water", "amount": "200", "unit": "ml" },
@@ -23,7 +23,7 @@
       "title": "Bniwen",
       "pictureLink": "https://lifestyleofafoodie.com/wp-content/uploads/2020/05/Almond-no-bake-energy-balls-with-chocolate-crunch-13-of-18.jpg",
       "type": "Dessert",
-      "pitch": "delightful and easy, guaranteed happiness with each bite",
+      "pitch": "Delightful and easy, guaranteed happiness with each bite",
       "ingredients": [
         { "name": "crackers", "amount": "1", "unit": "cup" },
         { "name": "butter", "amount": "0.75", "unit": "cup" },
@@ -40,7 +40,7 @@
     {
       "id": "lasgn00003",
       "title": "Classic Lasagna",
-      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lasagna_%28cropped%29.jpg",
+      "pictureLink": "https://moderncrumb.com/wp-content/uploads/2021/12/homemade-lasagna-10.jpg",
       "type": "Dinner",
       "pitch": "Rich and cheesy layers of goodness",
       "ingredients": [
@@ -78,7 +78,7 @@
     {
       "id": "pesto00005",
       "title": "Pesto Pasta",
-      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pesto_pasta.jpg",
+      "pictureLink": "https://richanddelish.com/wp-content/uploads/2023/02/creamy-pesto-pasta-9-of-15.jpg",
       "type": "Lunch",
       "pitch": "Simple and refreshing Italian flavors",
       "ingredients": [
@@ -96,7 +96,7 @@
     {
       "id": "tirsm00006",
       "title": "Tiramisu",
-      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tiramisu_with_spoon.jpg",
+      "pictureLink": "https://stemandspoon.com/wp-content/uploads/2023/09/keto-tiramisu-recipe-12.webp",
       "type": "Dessert",
       "pitch": "The classic creamy Italian delight",
       "ingredients": [
@@ -113,7 +113,7 @@
     {
       "id": "shak00007",
       "title": "Shakshuka",
-      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shakshouka.jpg",
+      "pictureLink": "https://static.webteb.net/images/content/ramadanrecipe_recipe_996_9559465cfae-457b-46ba-b0d7-f7c2db43c41e.jpg",
       "type": "Breakfast",
       "pitch": "A hearty and flavorful breakfast dish",
       "ingredients": [
@@ -132,7 +132,7 @@
     {
       "id": "cckch00008",
       "title": "Chocolate Chip Cookies",
-      "pictureLink": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Chip_Cookies_-_kimberlykv.jpg",
+      "pictureLink": "https://handletheheat.com/wp-content/uploads/2020/10/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1.jpg",
       "type": "Dessert",
       "pitch": "Soft and chewy, a timeless classic",
       "ingredients": [
