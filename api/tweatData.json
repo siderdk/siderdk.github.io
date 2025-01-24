@@ -147,5 +147,25 @@
         { "name": "Chocolate chips", "amount": "2", "unit": "cups" }
       ],
       "description": "Mix ingredients, bake at 350°F (175°C) for 10–12 minutes."
+    },
+     {
+      "id": "cckch00008",
+      "title": "Chocolate Chip Cookies",
+      "pictureLink": "https://handletheheat.com/wp-content/uploads/2020/10/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1.jpg",
+      "type": "Dessert",
+      "pitch": "Soft and chewy, a timeless classic",
+      "ingredients": [
+        { "name": "Butter", "amount": "1", "unit": "cup" },
+        { "name": "Sugar", "amount": "1", "unit": "cup" },
+        { "name": "Brown sugar", "amount": "1", "unit": "cup" },
+        { "name": "Eggs", "amount": "2", "unit": "" },
+        { "name": "Vanilla extract", "amount": "2", "unit": "tsp" },
+        { "name": "Flour", "amount": "3", "unit": "cups" },
+        { "name": "Baking soda", "amount": "1", "unit": "tsp" },
+        { "name": "Salt", "amount": "1", "unit": "tsp" },
+        { "name": "Chocolate chips", "amount": "2", "unit": "cups" }
+      ],
+      "description": "Mix ingredients, bake at 350°F (175°C) for 10–12 minutes.",
+         "edit": "true"
     }
   ]
